@@ -4,4 +4,4 @@ This repository collects the code for the project that Alessandro Pedrani and Ma
 1) **1 - Features_Extraction.ipynb** is the notebook contating the code to extract MFCCs with different number of coefficients and different sampling rates and storing then in a (huge) .txt file.
 2) **2 - Visualization.ipynb** contains some visual exploratory analysis on the data.
 3) **3 - Classification at Frame-Level using KNN.ipynb**, **4 - Classification using GMM.ipynb**, **5 - Classification using GMM+frame selection.ipynb** and **6 - Classification using a Bayesian Gaussian Mixture.ipynb** are the files for the splitting the database and running our models and their extensions.
-4) **7 - Test a new Song with the best model (for FUN).ipynb** is a fun notebook for visualizing exactly how frames of a song a classified by our best model. 
+4) **7 - Test a new Song with the best model (for FUN).ipynb** is a fun notebook for visualizing exactly how frames of a song are classified by our best model. 
